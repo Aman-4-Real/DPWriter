@@ -19,6 +19,7 @@
 
 <div class="scrollable">
     <ul>
+      <li><strong>[2026, Apr 06]</strong>: &nbsp;🎉🎉DPWriter is accepted by ACL 2026 (main)!!</li>
       <li><strong>[2026, Mar 17]</strong>: &nbsp;🎉🎉We release the <a href="https://huggingface.co/datasets/Aman/DPWriterData">dataset</a> and the <a href="https://github.com/Aman-4-Real/DPWriter">code</a> Feel free to use!</li>
       <li><strong>[2026, Jan 14]</strong>: &nbsp;🎉🎉Our <a href="https://arxiv.org/pdf/2601.09609">arXiv paper</a> is available! Check it out for more details.</li>
     </ul>
