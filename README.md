@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://arxiv.org/pdf/2601.09609"><img src="https://img.shields.io/badge/arXiv-paper-666?logo=arxiv&logoColor=FFE165&style=for-the-badge" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/Aman/DPWriterData"><img src="https://img.shields.io/badge/-dataset-blue?logo=databricks&logoColor=white&style=for-the-badge" alt="arXiv"></a>
-  <a href="https://github.com/Aman-4-Real/CrEval"><img src="https://img.shields.io/badge/github-code-black?logo=github&logoColor=white&style=for-the-badge" alt="arXiv"></a>
+  <a href="https://github.com/Aman-4-Real/DPWriter"><img src="https://img.shields.io/badge/github-code-black?logo=github&logoColor=white&style=for-the-badge" alt="arXiv"></a>
   <br/>
   <hr>
 </div>
