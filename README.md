@@ -116,11 +116,30 @@ For the rewarding code, please refer to [`dpwriter_rewards/reward_skywork_w_div_
 <h2> Please cite our paper if you find our work useful. </h2>
 
 ```
-@article{cao2026dpwriter,
-  title={DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing},
-  author={Cao, Qian and Liu, Yahui and Bi, Wei and Zhao, Yi and Song, Ruihua and Wang, Xiting and Tang, Ruiming and Zhou, Guorui and Li, Han},
-  journal={arXiv preprint arXiv:2601.09609},
-  year={2026}
+@inproceedings{cao-etal-2026-dpwriter,
+    title = "{DPW}riter: Reinforcement Learning with Diverse Planning Branching for Creative Writing",
+    author = "Cao, Qian  and
+      Liu, Yahui  and
+      Bi, Wei  and
+      Zhao, Yi  and
+      Song, Ruihua  and
+      Wang, Xiting  and
+      Tang, Ruiming  and
+      Zhou, Guorui  and
+      Li, Han",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.647/",
+    doi = "10.18653/v1/2026.acl-long.647",
+    pages = "14224--14250",
+    ISBN = "979-8-89176-390-6",
 }
 ```
 For any questions, please feel free to contact me at caoqian4real@ruc.edu.cn.
